@@ -10,3 +10,9 @@ https://en.opensuse.org/SDB:Administer_with_sudo
 
 memory leak fix
 balooctl disable
+baloo5 yast software
+
+pkill -f akonadi
+autostart
+
+
