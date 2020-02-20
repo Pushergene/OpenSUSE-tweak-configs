@@ -15,4 +15,4 @@ baloo5 yast software
 disable akonadi
 .config/akonadi/akonadiserverrc
 
-
+sudo btrfs quota disable /
